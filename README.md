@@ -45,7 +45,7 @@ I'm a Data Science graduate passionate about transforming raw data into meaningf
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/omkar-shelke-b4073823a/
 - GitHub: [github.com/omkar-shelke](https://github.com/omkar-shelke)
 
 ---
